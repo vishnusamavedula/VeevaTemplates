@@ -1,0 +1,4 @@
+file,id,external_id__v,rendition_type__v,major_version_number__v,minor_version_number__v
+DocumentRenditionsTest.pdf,259070,TEST-259070,imported_rendition__c,0,1
+DocumentRenditionsTest.pdf,259071,TEST-259071,imported_rendition__c,0,1
+DocumentRenditionsTest.pdf,259072,TEST-259072,imported_rendition__c,0,1
